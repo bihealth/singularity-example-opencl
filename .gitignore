@@ -1,0 +1,8 @@
+.*.sw?
+*~
+
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+
+src/opencl_hello
